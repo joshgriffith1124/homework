@@ -23,7 +23,7 @@
 ## Helm
 ### Installation
 
-* [Helm install docs](https://docs.helm.sh/using_helm/#installing-helm)
+* [Helm install docs](https://docs.helm.sh/using_helm/#installing-helm) (Install tiller in cluster)
 
 ### Sentry Chart
 * helm install --name mytime -f ./kubernetes/sentry/values.yml stable/sentry
