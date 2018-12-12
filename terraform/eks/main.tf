@@ -1,4 +1,4 @@
-#  Tyically all this would be wrapped up in a module, but I didn't to save time.
+#  Typically all this would be wrapped up in a module, but I didn't to save time.
 
 
 # Set up the VPC, subnets, IGW, and route tables.
